@@ -1,0 +1,24 @@
+# Python venv
+.venv
+env/
+venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# DBC & headers
+/output/
+/dbc/
+
+.DS_Store
